@@ -11,3 +11,7 @@
 ## [0.3 - HTML Forms](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Your_first_form)
 
 - Forms are the main point of interaction between the user and the website. Forms are a contained set of controls (or widgets) and optional validations.
+
+## [0.4. - New Note Diagram]
+
+- Making a [sequence diagram](./new-note-diagram.md) of the browser-server communication when creating a new note.
